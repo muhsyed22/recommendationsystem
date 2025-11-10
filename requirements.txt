@@ -4,3 +4,5 @@ streamlit
 numpy
 pandas
 scikit-learn
+streamlit
+gensim==4.3.2
