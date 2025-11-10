@@ -1,8 +1,0 @@
-gensim
-streamlit
-# Add any other packages you're using, e.g.:
-numpy
-pandas
-scikit-learn
-streamlit
-gensim==4.3.2
